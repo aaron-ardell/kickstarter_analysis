@@ -38,7 +38,10 @@ Initially, variances and typos in the repetitive =COUNTIFS formulas were throwin
   - There were two ranges of successful campaign goals that outpaced the quantity of failed campaigns: less than $1,000 to $14,999 and $35,000 to $44,999. Campaigns with goals over $45,000 had the largest increase in their failure rate.
 
 - What are some limitations of this dataset?
-  - 
+  - The dataset does not take into account campaign tactics, content or strategies that may address campaign success rates.
+  - This dataset is utilizing multiple forms of currency whose valuation may impact results.
 
 - What are some other possible tables and/or graphs that we could create?
-  - 
+  - Isolating by country to ensure consistent currency in the graphes.
+  - Stacked Bar Graph to provide visualization of which launch dates/goals have the highest comparable success rate.
+  - Box and Whisker Chart to display variance in data sets.
